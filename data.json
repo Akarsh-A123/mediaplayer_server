@@ -1,0 +1,80 @@
+{
+  "allVideos": [
+    {
+      "caption": "Illuminati",
+      "imageUrl": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "caption": "Armadham",
+      "imageUrl": "https://i.ytimg.com/vi/HkvVaj_28C8/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "id": 3
+    },
+    {
+      "caption": "BALLAATHA JAATHI",
+      "imageUrl": "https://i.ytimg.com/vi/rhrD7as3KJg/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "id": 4
+    },
+    {
+      "caption": "Sambar ",
+      "imageUrl": "https://i.ytimg.com/vi/r6egHcGiUjs/sddefault.jpg?v=65659ba1",
+      "embedLink": "https://www.youtube.com/embed/r6egHcGiUjs",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "category": "malayalam",
+      "allVideos": [
+        {
+          "caption": "BALLAATHA JAATHI",
+          "imageUrl": "https://i.ytimg.com/vi/rhrD7as3KJg/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/rhrD7as3KJg",
+          "id": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "hindi",
+      "allVideos": [
+        {
+          "caption": "Armadham",
+          "imageUrl": "https://i.ytimg.com/vi/HkvVaj_28C8/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/HkvVaj_28C8",
+          "id": 3
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Armadham",
+      "url": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "10/07/24, 14:47:29",
+      "id": 2
+    },
+    {
+      "caption": "Armadham",
+      "url": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "11/07/24, 13:38:13",
+      "id": 4
+    },
+    {
+      "caption": "BALLAATHA JAATHI",
+      "url": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "timeStamp": "11/07/24, 13:38:24",
+      "id": 5
+    },
+    {
+      "caption": "Sambar ",
+      "url": "https://www.youtube.com/embed/r6egHcGiUjs",
+      "timeStamp": "11/07/24, 13:41:55",
+      "id": 6
+    }
+  ]
+}
